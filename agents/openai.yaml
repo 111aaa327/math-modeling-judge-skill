@@ -1,0 +1,6 @@
+interface:
+  display_name: "数学建模盲审裁判"
+  short_description: "独立盲审数学建模论文、代码、结果、复现证据和竞赛合规风险"
+  default_prompt: "Use $math-modeling-judge to conduct an independent blind review of this frozen mathematical modeling submission."
+
+
