@@ -40,9 +40,9 @@ For each finding: severity (`P0/P1/P2`), exact location, expected behavior, obse
 
 Record commands or checks run, regenerated artifacts, environment limitations, failures, and remaining unverifiable claims. Distinguish `not reproduced` from `incorrect`.
 
-## 7. Paper, visuals, and compliance
+## 7. Paper, visuals, compliance, and evidence status
 
-Report page-level layout issues, notation/unit inconsistencies, citation problems, anonymity, AI declaration, appendix/archive gaps, and file constraints.
+Report page-level layout issues, notation/unit inconsistencies, citation problems, anonymity, appendix/archive gaps, and file constraints. List every claim that still depends on an authenticated portal, limited official run, physical measurement, licensed tool, unavailable proprietary data, or a future event, with status `VERIFIED`, `NOT_VERIFIED`, or `NOT_APPLICABLE` and the evidence needed to close it.
 
 ## 8. Historical benchmark addendum
 
@@ -55,5 +55,3 @@ Only after the blind score is frozen. Compare with relevant prior papers on prob
 - P2: clarity and polish
 
 End with a short re-review checklist whose items can be marked pass/fail against a new frozen version.
-
-
